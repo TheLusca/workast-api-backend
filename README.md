@@ -1,7 +1,7 @@
 # Instruções para instalação da API
 
 ## Criar ambiente virtual python
-### É necessario ter o Python versoes 3.+ e o PIP3.+ instalado
+### É necessário ter o Python verões 3.+ e o PIP3.+ instalado
 
 digitar no terminal:
 > python3 -m venv .venv
